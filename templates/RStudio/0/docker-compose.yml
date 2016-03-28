@@ -1,0 +1,7 @@
+RStudio:
+  image: rocker/rstudio
+  stdin_open: true
+  tty: true
+  labels:
+    "Version": "v0.0.1"
+

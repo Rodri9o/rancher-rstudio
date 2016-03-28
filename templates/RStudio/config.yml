@@ -1,0 +1,5 @@
+name: RStudio
+description: |
+  RStudio IDE is a powerful and productive user interface for R
+version: 0.0.1
+category: Rancher Services
