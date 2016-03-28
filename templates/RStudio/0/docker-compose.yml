@@ -4,4 +4,6 @@ RStudio:
   tty: true
   labels:
     "Version": "v0.0.1"
+  ports:
+    - "8787:8787"
 
